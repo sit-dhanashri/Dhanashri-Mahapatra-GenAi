@@ -1,0 +1,11 @@
+rNo,Patient_Id,DOB,Fever,Cough,Cold,Other Symptoms,City,State,Country,Pincode,Time Period
+1,COVID1,11-05-1985,High,Low,High,Body Ache,Mumbai,Maharashtra,India,400001,Morning
+2,COVID2,12-05-1947,Mid,Low,Mid,Shivering,Bengaluru,Karnataka,India,560001,Afternoon
+3,COVID3,13-05-1999,Low,Mid,Low,Head Ache,Chennai,Tamil Nadu,India,600001,Throughout the day
+4,COVID4,14-05-1985,High,High,Low,Nausea,Kolkata,West Bengal,India,700001,Evening
+5,COVID5,15-05-1984,Mid,Mid,High,Sickness,Hyderabad,Telangana,India,500001,Night
+6,COVID6,16-05-2001,High,Low,Low,Vertigo,Pune,Maharashtra,India,411001,Morning
+7,COVID7,17-05-2007,Mid,Low,Mid,Head Ache,Jaipur,Rajasthan,India,302001,Afternoon
+8,COVID8,18-05-1981,Low,Mid,High,Nausea,Lucknow,Uttar Pradesh,India,226001,Throughout the day
+9,COVID9,19-05-1995,Mid,High,High,Sickness,Ahmedabad,Gujarat,India,380001,Evening
+10,COVID10,20-05-1985,Low,Low,Low,"Vertigo, Nausea",Delhi,Delhi,India,110001,Night
